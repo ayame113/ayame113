@@ -1,1 +1,1 @@
-https://github.com/pulls?q=author%3Aayame113
+https://github.com/pulls?q=user%3Aayame113+NOT+dependabot
