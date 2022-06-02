@@ -1,6 +1,6 @@
 https://github.com/pulls?q=user%3Aayame113+NOT+dependabot
 
-- JavaScript
+- JavaScript (TypeScript)
 - HTML
 - CSS
 - php
