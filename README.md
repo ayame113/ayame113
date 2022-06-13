@@ -4,3 +4,4 @@ https://github.com/pulls?q=involves%3Aayame113
 - HTML
 - CSS
 - php
+- python
