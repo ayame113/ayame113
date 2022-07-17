@@ -1,7 +1,5 @@
-https://github.com/pulls?q=involves%3Aayame113
-<br>https://qiita.com/access3151fq
 
-## Language
+## Language and Tools
 
 ||||
 |---|---|---|
@@ -22,3 +20,16 @@ https://github.com/pulls?q=involves%3Aayame113
 |Deno|2year|<ul><li>v1.5リリース時から使っています。</li><li>Deno向けライブラリを複数公開しています。</li><li>Denoの開発にOSSコントリビューターとして参加しています。</li></ul>|
 |deno deploy|1year|初期リリース時から使っています。|
 |Node.js|2year|Atom Editor向け拡張機能（パッケージ）開発に利用しています。|
+
+## OSS contribute
+
+- [Deno standard library](https://github.com/denoland/deno_std)
+- [Deno](https://github.com/denoland/deno)
+- [atom-community](https://github.com/atom-community)
+
+See https://github.com/pulls?q=involves%3Aayame113 or https://github.com/pulls?q=involves%3Aayame113+-user%3Aayame113.
+
+## Blog post
+
+- qiita: https://qiita.com/access3151fq
+
