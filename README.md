@@ -19,7 +19,9 @@
 |---|---|---|
 |🦕Deno|2year|<ul><li>v1.5リリース時から使っています。</li><li>Deno向けライブラリを複数公開しています。</li><li>Denoの開発にOSSコントリビューターとして参加しています。</li></ul>|
 |🦕deno deploy|1year|初期リリース時から使っています。|
-| ⬢ Node.js|2year|Atom Editor向け拡張機能（パッケージ）開発に利用しています。|
+|<img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" style="width:1em;height:1em;">Node.js|2year|Atom Editor向け拡張機能（パッケージ）開発に利用しています。|
+
+
 
 ## OSS contribute
 
