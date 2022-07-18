@@ -7,7 +7,7 @@
 |JavaScript|5year|Webサイト構築やライブラリ作成に日常的に使用しています。|
 |TypeScript|2year|Webサイト構築やライブラリ作成に日常的に使用しています。|
 |PHP|4year|一部のWebサイトのバックエンド構築に利用していました。|
-|Python|4year|デスクトップアプリケーション開発や研究に利用しています。|
+|Python|4year|大学/大学院での研究やデスクトップアプリケーション開発に利用しています。|
 |MySQL / SQLite|4year|Webサイト構築の際にデータベースとしてに利用しています。|
 |GitHub Actions|2year|テスト自動化やビルド・リリースに使用。|
 |Markdown|2year|これを書いています。|
@@ -34,4 +34,5 @@ See https://github.com/pulls?q=involves%3Aayame113 or https://github.com/pulls?q
 ## Blog post
 
 - qiita: https://qiita.com/access3151fq
+  - Deno関連の記事を執筆しています。
 
