@@ -1,3 +1,9 @@
+## Works
+
+- [atom-ide-deno](https://atom.io/packages/atom-ide-deno)：Denoユーザー向けのAtom Editor拡張機能。1400回ダウンロードされたらしいです。
+- [jsonlines](https://github.com/ayame113/jsonlines)：1行JSONをストリーミングするライブラリ。ブラウザ / Deno / Node.jsで動作します。
+- [mock-file](https://github.com/ayame113/mock-file)：DenoのファイルシステムAPIのポリフィル。deno deployなどのAPIが制限された環境下で役立ちます。
+- [flaky_test](https://github.com/ayame113/flaky_test)：テストのフレークネス（不安定）に対処するためのDeno向けライブラリです。
 
 ## Language and Tools
 
