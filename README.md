@@ -1,6 +1,8 @@
 ## Works
 
+- [fast favicon](https://favi.deno.dev/)：コピペで設定完了する絵文字faviconジェネレーター。
 - [atom-ide-deno](https://atom.io/packages/atom-ide-deno)：Denoユーザー向けのAtom Editor拡張機能。1400回ダウンロードされたらしいです。
+- [ts-serve](https://github.com/ayame113/ts-serve)：TypeScriptのビルド付きサーバー。TypeScriptがブラウザで動く。
 - [jsonlines](https://github.com/ayame113/jsonlines)：1行JSONをストリーミングするライブラリ。ブラウザ / Deno / Node.jsで動作します。
 - [mock-file](https://github.com/ayame113/mock-file)：DenoのファイルシステムAPIのポリフィル。deno deployなどのAPIが制限された環境下で役立ちます。
 - [flaky_test](https://github.com/ayame113/flaky_test)：テストのフレークネス（不安定）に対処するためのDeno向けライブラリです。
