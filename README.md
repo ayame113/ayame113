@@ -38,8 +38,10 @@
 - [Deno](https://github.com/denoland/deno)
 - [atom-community](https://github.com/atom-community)
 
-過去に参加したissueやプルリクエスト：https://github.com/search?q=involves%3Aayame113+-user%3Aayame113
-過去に参加したissueやプルリクエスト（自分のリポジトリ含む）：https://github.com/search?q=involves%3Aayame113
+<br>
+
+- 過去に参加したissueやプルリクエスト：https://github.com/search?q=involves%3Aayame113+-user%3Aayame113
+- 過去に参加したissueやプルリクエスト（自分のリポジトリ含む）：https://github.com/search?q=involves%3Aayame113
 
 ## Blog post
 
